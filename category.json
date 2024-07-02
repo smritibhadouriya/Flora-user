@@ -1,0 +1,14 @@
+[
+	{
+		"cat_id": 1,
+		"name": "flower"
+	},
+	{
+		"cat_id": 2,
+		"name": "greeting"
+	},
+	{
+		"cat_id": 3,
+		"name": "bouquet"
+	}
+]

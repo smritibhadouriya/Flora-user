@@ -1,0 +1,324 @@
+[
+	{
+		"_id": { "$oid": "64f08db669b7a5601c79fe28" },
+		"name": "Gerbera Daisy",
+		"category_id":{"$oid": "64fb266060a6c4d81160167b"},
+		"price":10,
+		"stock":100000,
+		"description":"Gerbera Red 1 pc ",
+		"image_url": "gerbera.jfif"
+	},
+
+	{
+		"name": "Lilies",
+		"category_id":{"$oid": "64fb266060a6c4d81160167b"},
+		"price":23,
+		"stock":100000,
+		"description":"Generic Lily (1 pc)",
+		"image_url": "lily.jfif"
+	},
+
+	{
+		"name": "Tulips",
+		"category_id":{"$oid": "64fb266060a6c4d81160167b"},
+		"price":70,
+		"stock":100000,
+		"description": "Pink Tulip (2 piece)",
+		"image_url": "tulip.jfif"
+	},
+
+	{
+		"name": "Iris",
+		"category_id": {"$oid": "64fb266060a6c4d81160167b"},
+		"price": 500,"stock":100000,
+		"description": "Iris Plant |Sale | 500 For 10 piece",
+		"image_url": "iries.jpg"
+	},
+
+	{
+		"name": "Roses",
+		"category_id":{"$oid": "64fb266060a6c4d81160167b"},
+		"price": 17,"stock":100000,
+		"description": "Red Rose(1 pc)",
+		"image_url": "ROSE.jfif"
+	},
+
+	{
+		"name": "Orchids",
+		"category_id":{"$oid": "64fb266060a6c4d81160167b"},
+		"price": 200,"stock":100000,
+		"description": "Fresh Orchid Flower (1 pc)",
+		"image_url": "orchid.jfif"
+	},
+
+	{
+		"name": "Lisianthus",
+		"category_id": {"$oid": "64fb266060a6c4d81160167b"},
+		"price": 120,"stock":100000,
+		"description": "Lisianthu flower (pack of 10)",
+		"image_url":"Lisianthu.jpg"
+	},
+
+	{
+		"name": "jasmine",
+		"category_id": {"$oid": "64fb266060a6c4d81160167b"},
+		"price": 379,"stock":100000,
+		"description": "Super Fresh Jaismine|For Gajras,decoration & worship (pack of 50).",
+		"image_url": "Jasmine.jpg"
+	},
+
+	{
+		"name": "Carnation",
+		"category_id": {"$oid": "64fb266060a6c4d81160167b"},
+		"price": 161,"stock":100000,
+		"description": "Pink Carnation Flower (1 pc)",
+		"image_url": "Carnation.jfif"
+	},
+
+	{
+		"name": "Peony",
+		"category_id":{"$oid": "64fb266060a6c4d81160167b"},
+		"price":3500,"stock":100000,
+		"description": "Peony Flower |super fresh (10 pc)",
+		"image_url":"Peony.png"
+	},
+
+	{
+		"name": "Dahlia",
+		"category_id": {"$oid": "64fb266060a6c4d81160167b"},
+		"price": 30,"stock":100000,
+		"description": "Red Dahlia (1pc)",
+		"image_url": "Dahlia.jpg"
+	},
+
+	{
+		"name": "Marigold",
+		"category_id":{"$oid": "64fb266060a6c4d81160167b"},
+		"price":150,"stock":100000,
+		"description": "Yellow Marigold Flower (1 kg)",
+		"image_url": "marigold.jfif"
+	},
+
+	{
+	  "name": "Aster",
+	  "category_id":{"$oid": "64fb266060a6c4d81160167b"},
+	  "price": 120,"stock":100000,
+	  "description": "Blue Aster 1 pc" ,
+	  "image_url": "Aster.jfif"
+	},
+
+	{
+		"name": "Azalea",
+		"category_id": {"$oid": "64fb266060a6c4d81160167b"},
+		"price": 150,"stock":100000,
+		"description": "Azalea flower (10 pc)",
+		"image_url": "Azalea.jfif"
+	},
+	
+	{
+		"name": "Lotus",
+		"category_id": {"$oid": "64fb266060a6c4d81160167b"},
+		"price": 120,"stock":100000,
+		"description": "1 Fully Grown Pink Lotus Flower .",
+		"image_url": "lotus.jfif"
+	},
+	
+	{
+		"name": "Pink Rose Bouquet",
+		"category_id": {"$oid": "64fb266060a6c4d81160167d"},
+		"price":399,"stock":100000,
+		"description":"10 Beautiful Pink Rose Bouquet.",
+		"image_url": "pink_bouquet.jfif"
+	},
+
+	{
+		"name": "Mixed Rose Bouquet",
+		"category_id": {"$oid": "64fb266060a6c4d81160167d"},
+		"price":23,"stock":100000,
+		"description": "Flower Bouquet From 10 Diffrent Color Roses.",
+		"image_url": "mixed_bouquet.jfif"
+	},
+	{
+		"name": "Orchid Bouquet",
+		"category_id":{"$oid": "64fb266060a6c4d81160167d"},
+		"price":1500,"stock":100000,
+		"description": "10 Purple and white Orchid Bouquet.",
+		"image_url": "orchid_bouquet.jfif"
+	},
+
+	{
+		"name": "Sunflower And Lavender Bouquet",
+		"category_id": {"$oid": "64fb266060a6c4d81160167d"},
+		"price": 1368,"stock":100000,
+		"description": "Bouquet of 10 Sunflower and 20 Lavender Flowers.",
+		"image_url": "sunflower_lavender_bouqet.jfif"
+	},
+
+	{
+		"name": "Lavender Bouquet",
+		"category_id": {"$oid": "64fb266060a6c4d81160167d"},
+		"price": 1500,"stock":100000,
+		"description": "100 Lavender Flower Bouquet",
+		"image_url": "lavender_bouquet.jfif"
+	},
+
+	{
+		"name": "Dahlia Bouquet",
+		"category_id":{"$oid": "64fb266060a6c4d81160167d"},
+		"price": 400,"stock":100000,
+		"description": " Bouquet Of 10 Dahlia.",
+		"image_url": "dahlia_bouquet.jfif"
+	},
+
+	{
+		"name": "Sunflower Bouquet",
+		"category_id": {"$oid": "64fb266060a6c4d81160167d"},
+		"price":600,"stock":100000,
+		"description": "10 Sunflower's Bouquet.",
+		"image_url": "sunflower.jfif"
+	},
+
+	{
+	  "name": "Gerbera rose Bouquet",
+	  "category_id": {"$oid": "64fb266060a6c4d81160167d"},
+	  "price": 200,"stock":100000,
+	  "description": "A very beautiful Rose and Gerbera Bouquet .",
+	  "image_url": "gerbera_bouquet.jfif"
+	},
+
+	{
+		"name": "white Rose Bouquet",
+		"category_id": {"$oid": "64fb266060a6c4d81160167d"},
+		"price":6435 ,"stock":100000,
+		"description": "Weadding wreath Flower Bridal Bouquet",
+		"image_url": "whiterose_bouquet.jfif"
+	},
+	
+	{
+		"name": "Gerbera Bouquet",
+		"category_id":{"$oid": "64fb266060a6c4d81160167d"},
+		"price": 120,"stock":100000,
+		"description": "5 Gerbera Bouquet.",
+		"image_url": "gerbera_only_bouquet.jfif"
+	},
+
+	{
+		"name": "Independence Day Card",
+		"category_id":{"$oid": "64fb266060a6c4d81160167c"},
+		"price": 150,"stock":100000,
+		"description": "1 Independence day Greeting  Card",
+		"image_url": "independence_card.jfif"
+	},
+	
+	{
+		"name": "Raksh bandhan card",
+		"category_id":{"$oid": "64fb266060a6c4d81160167c"},
+		"price": 120,"stock":100000,
+		"description": "Card For Give Greetings On RakshBandhan | Beautiful Brother and Sister",
+		"image_url": "raksh_card.jfif"
+	},
+	
+	{
+		"name": "Mother's Day Card",
+		"category_id":{"$oid": "64fb266060a6c4d81160167c"},
+		"price": 150,"stock":100000,
+		"description": "Heart Warming Card for Mother,s Day",
+		"image_url": "mother's_card.jfif"
+	},
+	
+	{
+		"name": "New Year Card",
+		"category_id":{"$oid": "64fb266060a6c4d81160167c"},
+		"price": 120,"stock":100000,
+		"description": "New Year wish Card",
+		"image_url": "new_year_card.jfif"
+	},
+	
+	{
+		"name": "Merry Christmas Card",
+		"category_id": {"$oid": "64fb266060a6c4d81160167c"},
+		"price": 150,"stock":100000,
+		"description": "1 Christmas Wishing Card",
+		"image_url": "christmas_card.jfif"
+	},
+	
+	{
+		"name": "Happy Retirement Card",
+		"category_id":{"$oid": "64fb266060a6c4d81160167c"},
+		"price": 120,"stock":100000,
+		"description": "1  Happy Retirement Card .",
+		"image_url": "retierment_rose.jfif"
+	},
+	
+	{
+		"name": "Thank You Card",
+		"category_id":{"$oid": "64fb266060a6c4d81160167c"},
+		"price": 150,"stock":100000,
+		"description": "1 Thank you Card",
+		"image_url": "thankyou_card.jfif"
+	},
+	
+	{
+		"name": "Sorry Card",
+		"category_id":{"$oid": "64fb266060a6c4d81160167c"},
+		"price": 120,"stock":100000,
+		"description": "1 Apology card ",
+		"image_url": "sorry_card.jfif"
+	},
+	
+	{
+		"name": "Birthday Card",
+		"category_id": {"$oid": "64fb266060a6c4d81160167c"},
+		"price": 150,"stock":100000,
+		"description": "Lovely Birthday Card",
+		"image_url": "BIRTHA.jfif"
+	},
+	
+	{
+		"name": "Anniversary Card",
+		"category_id": {"$oid": "64fb266060a6c4d81160167c"},
+		"price": 120,"stock":100000,
+		"description": "Anniversary wishing Greeting Card",
+		"image_url": "anniversary_card.jfif"
+	},
+	
+	{
+		"name": "Take Care Card",
+		"category_id":{"$oid": "64fb266060a6c4d81160167c"},
+		"price": 150,"stock":100000,
+		"description": "Take Care Card",
+		"image_url": "take.jfif"
+	},
+	
+	{
+		"name": "Get Well Soon Card",
+		"category_id": {"$oid": "64fb266060a6c4d81160167c"},
+		"price": 120,"stock":100000,
+		"description": "Get Well Soon Card (1 pc).",
+		"image_url": "get_well_card.jfif"
+	},
+
+	{
+		"name": "Valentine's Day Card",
+		"category_id": {"$oid": "64fb266060a6c4d81160167c"},
+		"price": 150,"stock":100000,
+		"description": "Valentine's day card | Lovers | 1 pc",
+		"image_url": "valentine_card.jfif"
+	},
+	
+	{
+		"name": "Invitation Card",
+		"category_id":{"$oid": "64fb266060a6c4d81160167c"},
+		"price": 120,"stock":100000,
+		"description": "Invitation Card (1 pc)",
+		"image_url": "invetation_card.jfif"
+	},
+	
+	{
+		"name": "Teacher's day Card",
+		"category_id": {"$oid": "64fb266060a6c4d81160167c"},
+		"price": 150,"stock":100000,
+		"description": "Happy Teacher's day card (1 pc)",
+		"image_url":"teacher_card.jfif"
+	}
+]
